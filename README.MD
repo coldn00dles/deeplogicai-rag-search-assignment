@@ -1,4 +1,5 @@
-# RAG Search Tool Assignment
+# Coding Assignment Submission: AI Engineer Intern Winter 2024 - DeepLogic AI
+## RAG Search Tool Assignment 
 
 ## Deliverables achieved : 
 
